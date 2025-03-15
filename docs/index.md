@@ -4,28 +4,27 @@ description: Welcome to Trigger Mains
 
 # Welcome to Trigger Mains
 
-*There's not much here for now...*
+_There's not much here for now..._
 
 ## What's New
+
 ### _Check out the latest news and updates!_
 
 <div class="grid cards" markdown>
 
--   **Trigger full guide was created!**
+- **Trigger full guide was created!**
 
-    ---
+  ---
 
-    Content to be added!
-    [:material-arrow-right: Check it out!](guides/trigger/full.md "Trigger Full Guide")
+  Content to be added!
+  [:material-arrow-right: Check it out!](guides/trigger/full.md)
 
+- **Trigger quick guide was created!**
 
--   **Trigger quick guide was created!**
+  ---
 
-    ---
-
-    Content to be added!
-    [:material-arrow-right: Check it out!](guides/trigger/quick.md "Trigger Quick Guide")
-
+  Content to be added!
+  [:material-arrow-right: Check it out!](guides/trigger/quick.md)
 
 </div>
 
