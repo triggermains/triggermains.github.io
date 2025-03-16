@@ -55,6 +55,7 @@ theme:
   palette:
     scheme: slate
     primary: custom
+    accent: custom
   favicon: assets/avatar.png
   logo: assets/logo.png
   features:
