@@ -23,3 +23,4 @@ _TODO: replace with an overview infographics with best disc sets, w-engines, ski
 
 ![Upgrade materials](/assets/images/guides/trigger/matz.jpg)
 
+## Team compositions
