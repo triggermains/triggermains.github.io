@@ -51,7 +51,7 @@ Astra Yao can be replaced with any other support (or Pulchra?).
 Teams with an on-field Anomaly DPS can work. Yanagi enables Trigger's Additional Ability, but other Anomaly DPSes can work as long as you have an Electric agent in the team.
 The 3rd agent can be either a Defense agent (like Seth or Caesar), a support (like Rina) or another Anomaly character.
 
-#### Dual-stun
+#### Dual-Stun
 
 ![Harumasa team](/assets/images/guides/trigger/teams/dualstun.png)
 
