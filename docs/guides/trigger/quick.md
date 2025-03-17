@@ -50,7 +50,7 @@ The 3rd agent can be either a Defense agent (like Seth or Caesar), a support (li
 
 ![SAnby team](/assets/images/guides/trigger/teams/dualstun.png)
 
-This works best for burst DPSes
+This works best for burst DPSes that require little field time but need a frequent stun-window to deal damage, like Harumasa or Zhu Yuan.
 
 ### Notable synergies
 
