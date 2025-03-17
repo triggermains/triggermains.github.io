@@ -113,6 +113,7 @@
   border-color: #00000070 #FFFFFF30 #FFFFFF50 #00000070 !important;
   border-radius: 10px !important;
   background-color: rgba(0, 0, 0, 0.4) !important;
+  background-image: url('/assets/theme/bg.png');
 }
 
 .md-typeset {
@@ -274,6 +275,23 @@
 
   .tabbed-block img:not(figure img) {
     max-width: 30%;
+  }
+}
+
+.tabbed-block .mindscape {
+  width: 100%;
+  max-width: 100%;
+}
+
+.tabbed-labels a {
+  font-family: 'ZZZ', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  img {
+    height: 1rem;
+    vertical-align: middle;
+    margin-right: 3px;
+  }
+  span {
+    vertical-align: middle;
   }
 }
 

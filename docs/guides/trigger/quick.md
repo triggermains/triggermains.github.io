@@ -1,5 +1,5 @@
 ---
-description: In-depth Trigger guide.
+description: Quick Trigger guide.
 ---
 
 # Trigger Quick Guide
@@ -78,7 +78,73 @@ These are not always anti-synergies, just some attention points when building te
 
 ## Skill priority
 
+Here is Trigger's skill leveling-up priority, as recommended by the game:
+
+![Trigger skills](/assets/images/guides/trigger/skills.png)
+
 ## Mindscapes overview
+
+<div class="grid" markdown>
+
+=== "![M1](/assets/images/guides/trigger/icm1.png) <span>Sharpened Senses</span>"
+    
+    ![M1](/assets/images/guides/trigger/M1.png){ .mindscape align=left }
+
+    The Stun DMG Multiplier applied through **Core Passive: Soul-Searching Gaze** is increased by an additional 20%. When activating **Basic Attack: Harmonizing Shot**, the cooldown is reduced to 2s. **Purge** gained upon hitting an enemy with the continuous fire or charged counter in **Sniper Stance** increases by 25%. Maximum **Purge** increases to 125.
+
+    * Great Mindscape
+    * Improves Trigger's team damage buff
+    * Reduces off-field attacks cooldown
+    * Charges her off-field attacks stacks faster
+    * Increases the maximum amount of off-field attacks stacks
+
+=== "![M2](/assets/images/guides/trigger/icm2.png) <span>Ether Vision</span>"
+
+    ![M2](/assets/images/guides/trigger/M2.png){ .mindscape align=left }
+
+    Upon using an **Aftershock**, Trigger gains 1 stack of **Hunter's Gaze**. When executing a Finishing Move in **Sniper Stance**, Trigger gains 2 stacks of **Hunter's Gaze**. Each stack of **Hunter's Gaze** increases all squad members' CRIT DMG by 6%, stacking up to 4 times, and lasting 10s. Repeated triggers reset the duration.
+
+    * Great Mindscape as well
+    * Gives Trigger a team-wide crit. damage buff, up to 24%
+
+=== "![M3](/assets/images/guides/trigger/icm3.png) <span>Homecoming</span>"
+
+    ![M3](/assets/images/guides/trigger/M3.png){ .mindscape align=left }
+
+    **Basic Attack**, **Dodge**, **Assist**, **Special Attack**, and **Chain Attack** Lv. +2.
+
+    * Generally good Mindscape
+    * Levels up Basic Attack so slightly improves off-field attacks' daze dealt
+    * Pretty art
+
+=== "![M4](/assets/images/guides/trigger/icm4.png) <span>Concealment</span>"
+
+    ![M4](/assets/images/guides/trigger/M4.png){ .mindscape align=left }
+
+    When Trigger enters or extends **Coordinated Support**, while the state is active, the next time other squad members trigger **Basic Attack: Harmonizing Shot** or **Basic Attack: Harmonizing Shot - Tartarus**, it will trigger **Disconnect** upon hitting an enemy, dealing additional DMG equal to 200% of Trigger's ATK and inflict Daze equal to 120% of Trigger's Impact. This skill has a relatively high Interrupt Level.
+
+    * Rather good Mindscape, great stopping point
+    * Increase in her off-field attacks' damage and daze dealt
+
+=== "![M5](/assets/images/guides/trigger/icm5.png) <span>Locked In</span>"
+
+    ![M5](/assets/images/guides/trigger/M5.png){ .mindscape align=left }
+
+    **Basic Attack**, **Dodge**, **Assist**, **Special Attack**, and **Chain Attack** Lv. +2.
+
+    * Generally good Mindscape
+    * Same as M3
+
+=== "![M6](/assets/images/guides/trigger/icm6.png) <span>Beyond the River of the Dead</span>"
+
+    ![M6](/assets/images/guides/trigger/M6.png){ .mindscape align=left }
+
+    Upon entering the battlefield, Trigger gains 5 **Armor Break Rounds**. For every 25 **Purge** consumed, Trigger gains 1 additional **Armor Break Round**, up to a maximum of 5 rounds. While possessing **Armor Break Rounds**, when Trigger hits a target in **Sniper Stance**, 1 **Armor Break Round** is consumed to deal additional **Electric DMG** equal to 1,200% of Trigger's ATK. In addition, this instance of DMG is additionally increased by 50%. This effect can trigger once every 0.2s.
+
+    * Huge increase of her on-field damage in Sniper Stance
+    * Pretty art
+
+</div>
 
 ## W-Engines
 
