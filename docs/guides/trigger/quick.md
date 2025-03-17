@@ -35,6 +35,10 @@ Here are some team examples featuring Trigger:
 
 #### Silver Soldier Anby
 
+![SAnby team]()
+
+This
+
 ### Notable synergies
 
 ### Notable anti-synergies
