@@ -27,3 +27,9 @@ _TODO: replace with an overview infographics with best disc sets, w-engines, ski
 
 Trigger's Additional Ability requires her to be paired with an Attacker or Electric character.
 This gives her a good flexibility when it comes to team compositions.
+
+### Example teams
+
+### Notable synergies
+
+### Notable anti-synergies
