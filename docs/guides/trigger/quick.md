@@ -37,7 +37,9 @@ Here are some team examples featuring Trigger:
 
 ![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
-This is Trigger's best team at her release.
+This is Trigger's strongest team at her release.
+
+#### 
 
 ### Notable synergies
 
