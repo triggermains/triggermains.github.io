@@ -99,6 +99,13 @@
   align-items: space-between;
 }
 
+.md-content img {
+  border: solid 2px;
+  border-color: #00000070 #FFFFFF30 #FFFFFF50 #00000070;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
 .md-typeset .admonition.skills,
 .md-typeset details.skills {
   border-color: #604E34;
