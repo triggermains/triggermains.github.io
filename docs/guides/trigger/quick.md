@@ -37,9 +37,13 @@ Here are some team examples featuring Trigger:
 
 ![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
-This is Trigger's strongest team at her release. Astra can be replaced with any other support
+This is Trigger's strongest team at her release. Astra Yao can be replaced with any other support.
 
-#### On-field Yanagi
+#### On-field anomaly
+
+![SAnby team](/assets/images/guides/trigger/teams/anomaly.png)
+
+Teams with an on-field Anomaly DPS can work. Yanagi
 
 ### Notable synergies
 
