@@ -38,7 +38,9 @@ Here are some team examples featuring Trigger:
 ![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
 This is Trigger's strongest team at her release.
-Astra Yao can be replaced with any other support or Pulchra.
+Astra Yao can be replaced with any other support (or Pulchra?).
+
+_TODO: check Trigger-Pulchra synergy_
 
 #### On-field anomaly
 
@@ -55,5 +57,8 @@ This works best for burst DPSes that require little field time but need a freque
 The other stun agent can take the remaining part of the field time.
 
 ### Notable synergies
+
+| Character | Notes |
+| --------- | ----- |
 
 ### Possible anti-synergies
