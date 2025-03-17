@@ -28,7 +28,7 @@ plugins:
   - social:
       cards_layout_options:
         cards_layout: default/only/image
-        # background_image: docs/assets/images/background.jpg
+        background_image: docs/assets/images/background.jpg
 
 site_name: 'Trigger Mains ◎ Zenless Zone Zero'
 site_url: https://triggermains.com/
