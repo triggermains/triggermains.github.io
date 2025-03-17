@@ -10,7 +10,7 @@ description: In-depth Trigger guide.
 
 This is a quick guide on how to build and play Trigger and what characters she synergizes with. If you want a more in-depth guide, you can check our [Trigger Full Guide](../full/).
 
-You can also check the [Frequently Asked Questions](#frequently-asked-questions) section, which might contain answers to your questions!
+You can also check the [Frequently Asked Questions](#frequently-asked-questions) section, which may answer most of your questions!
 
 ## TL;DR
 
@@ -75,3 +75,5 @@ The other stun agent can take the remaining part of the field time.
 ## Disc sets
 
 ## Frequently Asked Questions
+
+## Closing statement
