@@ -43,7 +43,7 @@ This is Trigger's strongest team at her release. Astra Yao can be replaced with 
 
 ![SAnby team](/assets/images/guides/trigger/teams/anomaly.png)
 
-Teams with an on-field Anomaly DPS can work. Yanagi
+Teams with an on-field Anomaly DPS can work. Yanagi enables Trigger's Additional Ability
 
 ### Notable synergies
 
