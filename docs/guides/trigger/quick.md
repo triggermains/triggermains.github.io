@@ -4,7 +4,7 @@ description: In-depth Trigger guide.
 
 # Trigger Quick Guide
 
-![Trigger drip marketing](/assets/images/guides/trigger/drip.jpg)
+![Quick guide](/assets/images/social/guides/trigger/quick.png)
 
 ## Introduction
 

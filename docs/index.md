@@ -4,7 +4,7 @@ description: Welcome to Trigger Mains
 
 # Welcome to Trigger Mains
 
-_There's not much here for now..._
+![Trigger drip marketing](/assets/images/guides/trigger/drip.jpg)
 
 ## What's New
 
