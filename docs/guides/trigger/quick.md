@@ -43,7 +43,14 @@ This is Trigger's strongest team at her release. Astra Yao can be replaced with 
 
 ![SAnby team](/assets/images/guides/trigger/teams/anomaly.png)
 
-Teams with an on-field Anomaly DPS can work. Yanagi enables Trigger's Additional Ability, but other Anomaly DPSes can work as long as you have an Electric agent in the team. The 3rd agent can be eithe
+Teams with an on-field Anomaly DPS can work. Yanagi enables Trigger's Additional Ability, but other Anomaly DPSes can work as long as you have an Electric agent in the team.
+The 3rd agent can be either a Defense agent (like Seth or Caesar), a support (like Rina) or another Anomaly character.
+
+#### Dual-stun
+
+![SAnby team](/assets/images/guides/trigger/teams/dualstun.png)
+
+This works best for burst DPSes
 
 ### Notable synergies
 
