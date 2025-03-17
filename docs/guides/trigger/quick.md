@@ -14,15 +14,15 @@ You can also check the [Frequently Asked Questions](#frequently-asked-questions)
 
 ## TL;DR
 
-Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun \*and\* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 24% at O1.
+Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun *and* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 24% at O1.
 
-\*\[O1\]: Overclock 1 = 1 weapon copy
+*[O1]: Overclock 1 = 1 weapon copy
 
 This makes her a perfect team-mate for DPSes that require a long time on the field.
 
 If you need it, here is a quick overview of the materials needed to upgrade her:
 
-_TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information_
+*TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information*
 
 ![Upgrade materials](/assets/images/guides/trigger/matz.jpg)
 
@@ -42,7 +42,7 @@ Here are some team examples featuring Trigger:
 This is Trigger's strongest team at her release.
 Astra Yao can be replaced with any other support (or Pulchra?).
 
-_TODO: check Trigger-Pulchra synergy_
+*TODO: check Trigger-Pulchra synergy*
 
 #### On-field anomaly
 
@@ -60,7 +60,7 @@ The other stun agent can take the remaining part of the field time.
 
 ### Notable synergies
 
-| Agent                                            | Notes |
+| Agent        | Notes                                     |
 | ------------------------------------------------ | ----- |
 | ![SAnby](/assets/images/guides/agents/sanby.png) |       |
 
