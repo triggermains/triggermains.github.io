@@ -64,4 +64,8 @@ The other stun agent can take the remaining part of the field time.
 
 ### Possible anti-synergies
 
-## 
+## Skill priority
+
+## Mindscapes overview
+
+## W-Enfg
