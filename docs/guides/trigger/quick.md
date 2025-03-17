@@ -58,8 +58,10 @@ The other stun agent can take the remaining part of the field time.
 
 ### Notable synergies
 
-| Agent                                      | Notes |
-| ------------------------------------------ | ----- |
-| ![SAnby](../assets/images/guides/asta.png) |
+| Agent                                            | Notes |
+| ------------------------------------------------ | ----- |
+| ![SAnby](/assets/images/guides/agents/sanby.png) |       |
 
 ### Possible anti-synergies
+
+## 
