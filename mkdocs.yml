@@ -26,9 +26,9 @@ extra_css:
 plugins:
   - search
   - social:
-      cards_layout: default/only/image
       cards_layout_options:
-        background_image: docs/assets/images/background.jpg
+        cards_layout: default/only/image
+        # background_image: docs/assets/images/background.jpg
 
 site_name: 'Trigger Mains ◎ Zenless Zone Zero'
 site_url: https://triggermains.com/
