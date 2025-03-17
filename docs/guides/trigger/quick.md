@@ -30,6 +30,8 @@ This gives her a good flexibility when it comes to team compositions.
 
 ### Example teams
 
+Here are some team example
+
 ### Notable synergies
 
 ### Notable anti-synergies
