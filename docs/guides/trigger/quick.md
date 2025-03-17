@@ -41,4 +41,4 @@ This is Trigger's best team at her release.
 
 ### Notable synergies
 
-### Anti-synergy
+### Possible anti-synergies
