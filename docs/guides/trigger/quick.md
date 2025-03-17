@@ -35,9 +35,9 @@ Here are some team examples featuring Trigger:
 
 #### Silver Soldier Anby
 
-![SAnby team]()
+![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
-This
+This is Trigger's best team at her release.
 
 ### Notable synergies
 
