@@ -37,20 +37,22 @@ Here are some team examples featuring Trigger:
 
 ![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
-This is Trigger's strongest team at her release. Astra Yao can be replaced with any other support.
+This is Trigger's strongest team at her release.
+Astra Yao can be replaced with any other support or Pulchra.
 
 #### On-field anomaly
 
-![SAnby team](/assets/images/guides/trigger/teams/anomaly.png)
+![Yanagi team](/assets/images/guides/trigger/teams/anomaly.png)
 
 Teams with an on-field Anomaly DPS can work. Yanagi enables Trigger's Additional Ability, but other Anomaly DPSes can work as long as you have an Electric agent in the team.
 The 3rd agent can be either a Defense agent (like Seth or Caesar), a support (like Rina) or another Anomaly character.
 
 #### Dual-stun
 
-![SAnby team](/assets/images/guides/trigger/teams/dualstun.png)
+![Harumasa team](/assets/images/guides/trigger/teams/dualstun.png)
 
 This works best for burst DPSes that require little field time but need a frequent stun-window to deal damage, like Harumasa or Zhu Yuan.
+The other stun agent can take the remaining part of the field time.
 
 ### Notable synergies
 
