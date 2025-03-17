@@ -37,9 +37,9 @@ Here are some team examples featuring Trigger:
 
 ![SAnby team](/assets/images/guides/trigger/teams/sanby.png)
 
-This is Trigger's strongest team at her release.
+This is Trigger's strongest team at her release. Astra can be replaced with any other support
 
-#### 
+#### On-field Yanagi
 
 ### Notable synergies
 
