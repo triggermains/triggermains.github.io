@@ -10,4 +10,7 @@ description: In-depth Trigger guide.
 
 This is a quick guide on how to build and play Trigger and what characters she synergizes with. If you want a more in-depth guide, you can check our [Trigger Full Guide](../full/).
 
-## 
+## TL;DR
+
+Trigger is an Electric - Stun agent of the OBOL Squad faction.
+Her role in a team
