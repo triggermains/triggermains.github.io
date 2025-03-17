@@ -4,7 +4,7 @@ description: In-depth Trigger guide.
 
 # Trigger Quick Guide
 
-![drip](/assets/images/guides/trigger/drip.jpg)
+![Trigger drip marketing](/assets/images/guides/trigger/drip.jpg)
 
 ## Introduction
 
@@ -20,3 +20,6 @@ This makes her a perfect team-mate for DPSes that require a long time on the fie
 If you need it, here is a quick overview of the materials needed to upgrade her:
 
 _TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information_
+
+![Upgrade materials](/assets/images/guides/trigger/matz.jpg)
+
