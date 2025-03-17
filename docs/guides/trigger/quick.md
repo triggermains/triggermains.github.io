@@ -12,7 +12,7 @@ This is a quick guide on how to build and play Trigger and what characters she s
 
 ## TL;DR
 
-Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with her , especially with her W-Engine.
+Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun \*and\* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 24% at O0.
 
 This makes her a perfect team-mate for DPSes that require a long time on the field.
 
