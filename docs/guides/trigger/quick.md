@@ -19,4 +19,4 @@ This makes her a perfect team-mate for DPSes that require a long time on the fie
 
 If you need it, here is a quick overview of the materials needed to upgrade her:
 
-_TODO: replace with a guid_
+_TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information_
