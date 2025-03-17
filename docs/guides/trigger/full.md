@@ -2,6 +2,6 @@
 description: In-depth Trigger guide.
 ---
 
-# Trigger Mei Full Guide
+# Trigger Full Guide
 
-*Nothing here yet*
+_Nothing here yet_
