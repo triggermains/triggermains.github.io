@@ -63,7 +63,7 @@ The other stun agent can take the remaining part of the field time.
 | Agent        | Notes                                     |
 | ------------------------------------------------ | ----- |
 | ![SAnby](../../assets/images/guides/agents/sanby.png) | As you could guess from the team compositions, the new Silver Soldier Anby synergizes well with Trigger. Her Core Skill buffs the Aftershock damage from the whole team, which benefits herself but also Trigger. She enjoys having a lot of field time too, which suits Trigger's off-field style well. |
-| ![Qingyi](../../assets/images/guides/agents/qingyi.png) | Qingyi is the opposite of Trigger: an *on-field* Electric Stun character. So when they're paired together, Qingyi can take the field time and together they can stun the enemy very quickly. This work especially well in double-stun teams with a burst DPS that enjoys frequent stun windows like Harumasa. Qingyi being Electric, she also enables Trigger's Additional Ability. |
+| ![Qingyi](../../assets/images/guides/agents/qingyi.png) | Qingyi is the opposite of Trigger: an *on-field* Electric Stun character. So when they're paired together, Qingyi can take the field time and together they can stun the enemy very quickly. This works especially well in double-stun teams with a burst DPS that enjoys frequent stun windows like Harumasa. Qingyi being Electric, she also enables Trigger's Additional Ability. |
 | ![Rina](../../assets/images/guides/agents/rina.png) | Like Qingyi, Rina is an Electric agent, so she also enables Trigger's Additional Ability. Trigger being an off-field stunner, she frees a lot of field time for Rina to come refresh her rather short buff. |
 | ![Pulchra](../../assets/images/guides/agents/pulchra.png) | *Do they even synergize well together? idk.* |
 
@@ -147,6 +147,34 @@ Here is Trigger's skill leveling-up priority, as recommended by the game:
 </div>
 
 ## W-Engines
+
+Her signature weapon **Spectral Glaze** is obviously the best for her, and by a significant amount. With a **unique Crit Rate main stat**, and a an effect that **reduces the enemy DEF** by 25% while also **increasing her Impact**, it's hard to find an alternative W-Engine that can compete. But she is still more than playable with alternatives, so here is a list:
+
+*[DEF]: Defense
+
+| Agents       | Notes                                     |
+| ------------------------------------------------ | ----- |
+| ![Spectral Gaze](../../assets/images/guides/weapons/triggersig.png) | Her signature weapon. Obviously the best choice, with a great supporting ability and the highest increase in her daze potential among the Stun W-Engines. |
+| ![Ice-Jade Teapot](../../assets/images/guides/weapons/qingyisig.png) | The best gacha alternative! Trigger can max out the buffs fairly quickly. But let's be honest, if you have Ice-Jade Teapot, you probably have Qingyi and you'll probably want her to use her signature weapon. |
+| ![The Restrained](../../assets/images/guides/weapons/lycaonsig.png) | Lycaon's signature W-Engine. The best "free" alternative. Trigger's off-field attack can consistently refresh the daze buff of this weapon. |
+| ![Fossilized Core](../../assets/images/guides/weapons/fossil.png) | The best A-rank alternative, especially for Deadly Assault. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
+| ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png) | Despite buffing Physical Damage, this weapon can also grant 31% Impact to Trigger pretty consistently, which makes it a better option in Shiyu Defense or other game modes with highly resistant enemies. |
+| <center>Other Stun<br>W-Engines</center> | Not much to say about these... The other W-Engines mentionned above are better, but they can still work. |
+| <center>Crit Rate<br>W-Engines</center> | Worse than Stun W-Engines in general. |
+
+### Pull priority?
+
+> Should I pull for her signature W-Engine or her Mindscapes first?
+
+Her M1 and M2 are great! But not as great as everything her signature weapon gives her, so the W-Engine is still the highest priority!
+
+> Should I pull Anby's or Trigger's W-Engine?
+
+Depends on what your goal is.
+
+If you're pulling Trigger only to strengthen your S Anby team to the maximum, then Anby's weapon is definitely a higher upgrade.
+
+If you want your Trigger to be useful in as many teams as possible, then Trigger's weapon will be more useful.
 
 ## Disc sets
 
