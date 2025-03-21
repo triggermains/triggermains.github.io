@@ -245,4 +245,68 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 
 ## Frequently Asked Questions
 
+**Who is Trigger?**
+
+> Trigger is a sniper in the Obol Squad of the New Eridu Defense Force, alongside currently playable character Soldier 11 for instance.
+> During an event in the old Eridu, her eyes got infected with ether, giving her supernatural vision, at the cost of having to wear a mask to prevent her eyes from "volatilizing".
+
+**What do we know about Trigger?**
+
+> **Faction:** Obol Squad
+> 
+> **Appearance:** Trigger is a tall, blonde woman wearing a mask covering the upper part of her face. She's dressed in black and light orange like other Obol Squad member Soldier 11.
+> 
+> **Weapon:** She wields a black and light orange sniper.
+
+**Is she voiced?**
+
+> Yes!
+> **EN:** *Not announced*
+> **CN:** Qin Ziyi (秦紫翼)
+> **JP:** Nanjō Yoshino (南條 愛乃)
+> **KR:** Lim Eun-ji (임은지)
+
+**Will Trigger be playable?**
+
+> Trigger has been drip marketed as a playable **S rank, Electric Stun character**. She will release in ZZZ **version 1.6** along Silver Soldier Anby.
+
+**What role does she play in a team?**
+
+> She is a stun character so her main focus will be stunning the enemies. She has off-field attacks, making her rather different from the usual Stun characters that take a lot of field time.
+> 
+> Playing Trigger as a main DPS seems complicated right now, every beta change made her even closer to a Stun character and further away from an on-field DPS (but an off-field main DPS might work in a double-carry team).
+
+**Does Trigger work with [character]?**
+
+> This question is asked pretty often, mainly **"Does/will Trigger work with Soldier 11?"**
+> 
+> Right now, the new character **Silver Soldier Anby should be her best partner**, because of their great synergy with their new gameplay element called "Additional attacks".
+> 
+> However, Trigger **is still a good general Stun character** with any other DPS.
+> For Soldier 11 and Evelyn specifically though, most fire-weak bosses are resistant to electric, so it might not be the best combo ever.
+
+**What drive discs does she need?**
+
+> The best 4-set right now is Shockstar Disco, as it's the set that gives her the most daze potential. The new 1.6 set Shadow Harmony is also playable, favoring her personal damage at the cost of some daze. However, it becomes her best 4-set starting at M4.
+> 
+> As for the 2-set, it will likely be Woodpecker Electro (crit rate) if you need more crit rate to cap her conversion (the cap is at 90% crit rate). If you don't need more crit rate, you can use any offensive 2-set, or Swing Jazz if you feel like you want her Coordinated Support state more often.
+> 
+> For info on the disc stats, check out the [disc stats section](#disc-stats) of this guide!
+
+**Does she need her W-Engine?**
+
+> Trigger has a crit rate to impact conversion, up to 90% crit rate. So obviously her weapon gives crit rate to help reach that high cap, which is a unique stat among stun W-Engines.
+> 
+> You can always use a regular impact W-Engine, to get the impact without the crit rate. The performance with any other Stun engine (S-ranks like Lycaon's, Koleda's etc., A-ranks Anby's, Pulchra's, fossile etc.) is similar and noticeably below her signature engine. Attacker engines with Crit Rate aren't worth it.
+> 
+> It's also important to note that her W-Engine has a 25% DEF reduction effect. In addition to that, it also gives her even more impact, making alternative stun engines look weaker.
+
+**Does she really need 90% Crit Rate?**
+
+> Yup, or as close as you can get to 90%! Losing even 10% Crit Rate means losing 15% daze efficiency, you wouldn't want that to happen!
+
+**How does she compare to Lighter/Qingyi/...?**
+
+> Most of her daze is dealt off-field, while another on-field agent is also dealing daze to the enemy, so it's really hard to compare. But her time-to-stun seems balanced with the other limited Stun agents, so who you use is more a matter of team composition.
+
 ## Closing statement
