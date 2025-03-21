@@ -238,6 +238,17 @@ blockquote {
           mask-image: var(--md-admonition-icon--announce);
 }
 
+:root {
+  --md-admonition-icon--warning: url("/assets/theme/TriggerWarning.png");
+}
+.md-typeset .warning>.admonition-title:before, .md-typeset .warning>summary:before {
+  background-color: unset;
+  -webkit-mask-image: none;
+  mask-image: none;
+  background-image: var(--md-admonition-icon--warning);
+  background-size: cover;
+}
+
 .buttons {
   display: flex;
   flex-direction: row;
