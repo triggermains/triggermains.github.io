@@ -260,7 +260,7 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 
 **Is she voiced?**
 
-> Yes!
+> Yes!<br>
 > **EN:** *Not announced*<br>
 > **CN:** Qin Ziyi (秦紫翼)<br>
 > **JP:** Nanjō Yoshino (南條 愛乃)<br>
@@ -310,3 +310,11 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 > Most of her daze is dealt off-field, while another on-field agent is also dealing daze to the enemy, so it's really hard to compare. But her time-to-stun seems balanced with the other limited Stun agents, so who you use is more a matter of team composition.
 
 ## Closing statement
+
+In conclusion, Trigger is a new Stun character with a very off-field playstyle, similar to Pulchra who released earlier the same version, but with even less field time required.
+
+She can be played with most DPSes with some clever team building tricks, and will be the BiS stunner for Aftershock DPSes like the new Silver Soldier Anby.
+
+Thanks to everyone who helped work on this guide, and thank *you* for reading!
+
+We will keep the guide updated as future content gives Trigger new gameplays or team opportunities!
