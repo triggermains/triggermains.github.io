@@ -20,11 +20,51 @@ Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a tea
 
 This makes her a perfect team-mate for DPSes that require a long time on the field.
 
+She has a unique passive in her Additional Ability that converts her Crit Rate between 40% and 90% into up to 75% daze efficiency on her off-field attacks.
+
 If you need it, here is a quick overview of the materials needed to upgrade her:
 
 *TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information*
 
 ![Upgrade materials](../../assets/images/guides/trigger/matz.jpg)
+
+## How to play Trigger?
+
+Trigger has a meter called **Purge** that you can see under her icon at any time.
+
+<figure markdown="span">
+    ![Purge](../../assets/images/guides/trigger/purge.jpg)
+    <figcaption>Trigger's Purge meter</figcaption>
+</figure>
+
+To gain **Purge**, you can hold the attack button to enter **Sniper Stance**. You need 4 sniper shots to fully charge the meter, so hold the attack button until then, and when it's full, you can release it. Releasing the attack button will trigger (lol) a Quick Assist for the next team mate.
+
+<figure markdown="span">
+    ![Purge](../../assets/images/guides/trigger/sniper_stance.gif)
+    <figcaption>Sniper Stance</figcaption>
+</figure>
+
+When she has **Purge**, and an ally deals damage, she will do an **Aftershock** attack on the enemies (once every 3 seconds at M0), increasing their daze and consuming **Purge**. She will do additional **Aftershock** attacks when the ally uses an EX skill, Assist follow-up or Ultimate.
+
+<figure markdown="span">
+    ![Purge](../../assets/images/guides/trigger/aftershocks.gif)
+    <figcaption>Trigger's Aftershocks</figcaption>
+</figure>
+
+When Trigger is on the field and uses her EX skill or Ultimate, she will enter the **Coordinated Support** mode, where her **Aftershocks** are improved and don't consume **Purge**, for up to 10 off-field attacks and 20s. This also triggers a Quick Assist.
+
+<figure markdown="span">
+    ![Purge](../../assets/images/guides/trigger/purge_coord.jpg)
+    <figcaption>Purge meter in Coordinated Support</figcaption>
+</figure>
+
+Her Defensive Assist and Assist Follow-up also deal a decent amount of daze, so it's worth using them!
+
+Here's a summary of Trigger's gameplay:
+
+1. Hold basic attack until **Purge** is full
+2. Use EX or Ultimate when you can
+3. Switch to your DPS and let her cook
 
 ## Team compositions
 
@@ -152,13 +192,13 @@ Her signature weapon **Spectral Glaze** is obviously the best for her, and by a 
 
 *[DEF]: Defense
 
-| Agents       | Notes                                     |
+| W-Engine       | Notes                                     |
 | ------------------------------------------------ | ----- |
 | ![Spectral Gaze](../../assets/images/guides/weapons/triggersig.png) | Her signature weapon. Obviously the best choice, with a great supporting ability and the highest increase in her daze potential among the Stun W-Engines. |
 | ![Ice-Jade Teapot](../../assets/images/guides/weapons/qingyisig.png) | The best gacha alternative! Trigger can max out the buffs fairly quickly. But let's be honest, if you have Ice-Jade Teapot, you probably have Qingyi and you'll probably want her to use her signature weapon. |
 | ![The Restrained](../../assets/images/guides/weapons/lycaonsig.png) | Lycaon's signature W-Engine. The best "free" alternative. Trigger's off-field attack can consistently refresh the daze buff of this weapon. |
-| ![Fossilized Core](../../assets/images/guides/weapons/fossil.png) | The best A-rank alternative, especially for Deadly Assault. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
-| ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png) | Despite buffing Physical Damage, this weapon can also grant 31% Impact to Trigger pretty consistently, which makes it a better option in Shiyu Defense or other game modes with highly resistant enemies. |
+| ![Fossilized Core](../../assets/images/guides/weapons/fossil.png) | The best A-rank alternative, especially for **Deadly Assault**. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
+| ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png) | Despite buffing Physical Damage, this weapon can also grant 31% Impact to Trigger pretty consistently, which makes it a better option in **Shiyu Defense** or other game modes with highly resistant enemies. |
 | <center>Other Stun<br>W-Engines</center> | Not much to say about these... The other W-Engines mentionned above are better, but they can still work. |
 | <center>Crit Rate<br>W-Engines</center> | Worse than Stun W-Engines in general. |
 
@@ -176,7 +216,32 @@ If you're pulling Trigger only to strengthen your S Anby team to the maximum, th
 
 If you want your Trigger to be useful in as many teams as possible, then Trigger's weapon will be more useful.
 
-## Disc sets
+## Drive discs
+
+Since Trigger is a Stun agent, you will want to maximize her Daze dealt. And for that, you can either choose discs that directly increase her Impact or Daze dealt, or take advantage of her passive that converts her Crit Rate up to 90% into up to 75% Daze dealt.
+
+### 4-set
+
+| Disc set       | Notes                                     |
+| ------------------------------------------------ | ----- |
+| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png) | The disc 4-set that gives her the most daze potential, with 6% impact and 20% daze efficiency. Can be paired with Woodpecker Electro if more Crit Rate is required to cap her conversion. |
+| ![Shadow Harmony](../../assets/images/guides/discs/SuitShadow.png) | A good 4-set that gives up to 12% Crit Rate, resulting in 18% more daze dealt for Trigger. Less than Shockstar Disco, but this set also increases her own damage. It is **the best 4-set for M4+ Trigger**, but still usable at M0 if you have good stats on it. The downside is that you may be over-capping her conversion with W-Engine and discs stats. |
+| ![Proto Punk](../../assets/images/guides/discs/SuitProtoPunk.png) | The only 4-set for her that can buff the team's damage consistently, at the cost of her daze dealt. A bit annoying to refresh as you have to do Defensive Assists pretty. Can be used for a more "support build" for Trigger, but definitely not her main build. |
+
+### 2-set
+
+| Disc set       | Notes                                     |
+| ------------------------------------------------ | ----- |
+| ![Woodpecker Electro](../../assets/images/guides/discs/SuitWoodpeckerElectro.png) | Easy way to get closer to 90% Crit Rate for her conversion. Works with all the 4-set options mentioned earlier. |
+| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png) | Only works with the Shadow Harmony (or the Proto Punk) build. Good if you already cap her Crit Rate conversion, otherwise Woodpecker Electro is still better. |
+| ![Swing Jazz](../../assets/images/guides/discs/SuitSwingJazz.png) | Could be a good idea if you already reached the 90% Crit Rate cap. Allows Trigger to enter the Coordinated Support state more often to stun the enemy faster. |
+| ![Offensive discs](../../assets/images/guides/trigger/off_discs.png) | Offensive options for if you already reached the 90% Crit Rate cap, to maximize Trigger's potential by increasing her damage. |
+
+### Disc stats
+
+Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you will want to reach that cap with disc stats. Since she is a Stun character, Impact disc 6 is obvious. The other substats are offensive substats to get as much extra damage as possible out of her.
+
+![Disc stats](../../assets/images/guides/trigger/stats.png)
 
 ## Frequently Asked Questions
 
