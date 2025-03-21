@@ -261,10 +261,10 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 **Is she voiced?**
 
 > Yes!
-> **EN:** *Not announced*
-> **CN:** Qin Ziyi (秦紫翼)
-> **JP:** Nanjō Yoshino (南條 愛乃)
-> **KR:** Lim Eun-ji (임은지)
+> **EN:** *Not announced*<br>
+> **CN:** Qin Ziyi (秦紫翼)<br>
+> **JP:** Nanjō Yoshino (南條 愛乃)<br>
+> **KR:** Lim Eun-ji (임은지)<br>
 
 **Will Trigger be playable?**
 
