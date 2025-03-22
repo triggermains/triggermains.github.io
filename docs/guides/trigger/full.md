@@ -231,7 +231,7 @@ Since Trigger is a Stun agent, you will want to maximize her Daze dealt. And for
 | ------------------------------------------------ | ----- |
 | ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png) | The disc 4-set that gives her the most daze potential, with 6% impact and 20% daze efficiency. Can be paired with Woodpecker Electro if more Crit Rate is required to cap her conversion. |
 | ![Shadow Harmony](../../assets/images/guides/discs/SuitShadow.png) | A good 4-set that gives up to 12% Crit Rate, resulting in 18% more daze dealt for Trigger. Less than Shockstar Disco, but this set also increases her own damage. It is **the best 4-set for M4+ Trigger**, but still usable at M0 if you have good stats on it. The downside is that you may be over-capping her conversion with W-Engine and discs stats. |
-| ![Proto Punk](../../assets/images/guides/discs/SuitProtoPunk.png) | The only 4-set for her that can buff the team's damage consistently, at the cost of her daze dealt. A bit annoying to refresh as you have to do Defensive Assists pretty. Can be used for a more "support build" for Trigger, but definitely not her main build. |
+| ![Proto Punk](../../assets/images/guides/discs/SuitProtoPunk.png) | The only 4-set for her that can buff the team's damage consistently, at the cost of her daze dealt. A bit annoying to refresh as you have to do Defensive Assists pretty often. Can be used for a more "support build" for Trigger, but definitely not her main build. |
 
 ### 2-set
 
@@ -285,7 +285,7 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 
 > This question is asked pretty often, mainly **"Does/will Trigger work with Soldier 11?"**
 > 
-> Right now, the new character **Silver Soldier Anby should be her best partner**, because of their great synergy with their new gameplay element called "Additional attacks".
+> Right now, the new character **Silver Soldier Anby should be her best partner**, because of their great synergy with their new gameplay element called "Aftershocks".
 > 
 > However, Trigger **is still a good general Stun character** with any other DPS.
 > For Soldier 11 and Evelyn specifically though, most fire-weak bosses are resistant to electric, so it might not be the best combo ever.
