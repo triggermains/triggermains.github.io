@@ -14,7 +14,7 @@ You can also check the [Frequently Asked Questions](#frequently-asked-questions)
 
 ## TL;DR
 
-Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun *and* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 24% at O1.
+Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun *and* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 25% at O1.
 
 *[O1]: Overclock 1 = 1 weapon copy
 
@@ -22,11 +22,9 @@ This makes her a perfect team-mate for DPSes that require a long time on the fie
 
 She has a unique passive in her Additional Ability that converts her Crit Rate between 40% and 90% into up to 75% daze efficiency on her off-field attacks.
 
-If you need it, here is a quick overview of the materials needed to upgrade her:
+If you need it, here is a quick overview of how to build her:
 
-*TODO: replace with an overview infographics with best disc sets, w-engines, skill priority and basic build information*
-
-![Upgrade materials](../../assets/images/guides/trigger/matz.jpg)
+![TLDR](../../assets/images/guides/trigger/tldr.png)
 
 ## How to play Trigger?
 
@@ -51,7 +49,7 @@ When she has **Purge**, and an ally deals damage, she will do an **Aftershock** 
     <figcaption>Trigger's Aftershocks</figcaption>
 </figure>
 
-When Trigger is on the field and uses her EX skill or Ultimate, she will enter the **Coordinated Support** mode, where her **Aftershocks** are improved and don't consume **Purge**, for up to 10 off-field attacks and 20s. This also triggers a Quick Assist.
+When Trigger is on the field and uses her EX skill or Ultimate, she will enter the **Coordinated Support** state, where her **Aftershocks** are improved and don't consume **Purge**, for up to 10 off-field attacks and 20s. This also triggers a Quick Assist.
 
 <figure markdown="span">
     ![Purge](../../assets/images/guides/trigger/purge_coord.jpg)
@@ -79,7 +77,7 @@ Here are some team examples featuring Trigger:
 
 ![SAnby team](../../assets/images/guides/trigger/teams/sanby.png)
 
-This is Trigger's strongest team at her release. Silver Soldier Anby synergizes very well with Trigger, but this team works with other on-field DPSes like Ellen or Evelyn.
+This is Trigger's strongest team at her release. Silver Soldier Anby synergizes very well with Trigger, but this team also works with other on-field DPSes like Ellen or Evelyn as.
 Astra Yao can be replaced with any other support (or Pulchra?).
 
 *TODO: check Trigger-Pulchra synergy*
@@ -114,7 +112,7 @@ These are not always anti-synergies, just some attention points when building te
 | Agents       | Notes                                     |
 | ------------------------------------------------ | ----- |
 | ![Harumasa](../../assets/images/guides/agents/harumasa.png)<br>![Zhu Yuan](../../assets/images/guides/agents/zhuyuan.png) | Burst DPSes like Harumasa or Zhu Yuan have big downtimes in their elemental damage, which is why they're usually paired with an *on-field* Stun character. Therefore, in a team with Trigger, both are going to fight to *not* have the field time. However, this can work better if the 3rd character on the team is an on-field Stun character like Qingyi. But beware that you could be missing out on some bigger buffs from using a support instead of Trigger. |
-| ![Evelyn](../../assets/images/guides/agents/evelyn.png)<br>![Soldier 11](../../assets/images/guides/agents/soldier11.png) | At first glance, Evelyn and Soldier 11 look like they would have a rather good synergy with Trigger, since they are both field-heavy DPSes. However, bosses that are weak to Fire are often resistant to Electric, which would highly impact Trigger's daze efficiency. So when the boss are resistant to Electric damage, a Fire Stun character like Lighter or Koleda would still be significantly better. |
+| ![Evelyn](../../assets/images/guides/agents/evelyn.png)<br>![Soldier 11](../../assets/images/guides/agents/soldier11.png) | At first glance, Evelyn and Soldier 11 look like they would have a rather good synergy with Trigger, since they are both field-heavy DPSes. However, bosses that are weak to Fire are often resistant to Electric, which would highly impact Trigger's daze efficiency. So when the bosses are resistant to Electric damage, a Fire Stun character like Lighter or Koleda would still be significantly better. |
 
 ## Skill priority
 
@@ -188,7 +186,7 @@ Here is Trigger's skill leveling-up priority, as recommended by the game:
 
 ## W-Engines
 
-Her signature weapon **Spectral Glaze** is obviously the best for her, and by a significant amount. With a **unique Crit Rate main stat**, and a an effect that **reduces the enemy DEF** by 25% while also **increasing her Impact**, it's hard to find an alternative W-Engine that can compete. But she is still more than playable with alternatives, so here is a list:
+Her signature weapon **Spectral Glaze** is obviously the best for her, and by a significant amount. With a **unique Crit Rate main stat**, and an effect that **reduces the enemy DEF** by 25% while also **increasing her Impact**, it's hard to find an alternative W-Engine that can compete. But she is still more than playable with alternatives, so here is a list:
 
 *[DEF]: Defense
 
@@ -214,7 +212,7 @@ Depends on what your goal is.
 
 If you're pulling Trigger only to strengthen your S Anby team to the maximum, then Anby's weapon is definitely a higher upgrade.
 
-If you want your Trigger to be useful in as many teams as possible, then Trigger's weapon will be more useful.
+If you want your Trigger to be useful in as many teams as possible, then Trigger's weapon will be more important.
 
 ## Drive discs
 
