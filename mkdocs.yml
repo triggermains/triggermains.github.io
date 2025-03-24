@@ -83,7 +83,7 @@ extra:
       link: https://www.reddit.com/r/TriggerMains/" target="_blank
     - icon: fontawesome/brands/twitter
       link: https://x.com/Trigger_zzz" target="_blank
-  # analytics:
-  #   provider: google
-  #   property: G-4D781P3Q97
+  analytics:
+    provider: google
+    property: G-B90KK29F5Y
   generator: false
