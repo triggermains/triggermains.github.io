@@ -12,12 +12,12 @@ description: Welcome to Trigger Mains
 
 <div class="grid cards" markdown>
 
-- **Trigger full guide was created!**
+<!-- - **Trigger full guide was created!**
 
   ---
 
   Content to be added!
-  [:material-arrow-right: Check it out!](guides/trigger/full.md)
+  [:material-arrow-right: Check it out!](guides/trigger/full.md) -->
 
 - **Trigger quick guide was created!**
 
