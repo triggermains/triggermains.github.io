@@ -22,6 +22,8 @@ You can also check the [Frequently Asked Questions](#frequently-asked-questions)
 Trigger is an Electric - Stun agent of the OBOL Squad faction. Her role in a team is that of an off-field stunner with good supporting abilities with a damage buff for out-of-stun *and* stunned enemies, and even more with her signature W-Engine that reduces the enemy DEF by 25% at O1.
 
 *[O1]: Overclock 1 = 1 weapon copy
+*[Harmonizing Shots]: Off-field attacks
+*[Harmonizing Shot]: Off-field attack
 
 This makes her a perfect team-mate for DPSes that require a long time on the field.
 
@@ -42,9 +44,6 @@ Trigger has a meter called **Purge** that you can see under her icon at any time
 
 To gain **Purge**, you can hold the attack button to enter **Sniper Stance**. You need 4 sniper shots to fully charge the meter, but in most rotations, you don't have to fully charge the meter, and 2 shots are usually enough. Releasing the attack button will trigger (lol) a Quick Assist.
 
-!!! note "About Trigger's Quick Assist"
-    Trigger's Quick Assist cycles backwards through the team, like Pulchra's and Seth's, so it will switch to the *previous* character in the team order!
-
 <figure markdown="span">
     ![Purge](../../assets/images/guides/trigger/sniper_stance.gif)
     <figcaption>Sniper Stance</figcaption>
@@ -57,12 +56,17 @@ When she has **Purge**, and an ally deals damage, she will do an **Aftershock** 
     <figcaption>Trigger's Aftershocks</figcaption>
 </figure>
 
-When Trigger is on the field and uses her EX skill or Ultimate, she will enter the **Coordinated Support** state, where her **Aftershocks** are improved and don't consume **Purge**, for up to 10 off-field attacks and 20s. This also triggers a Quick Assist.
+Trigger can enter the **Coordinated Support** state after using an EX special attack (4 shots, 8 seconds) or Ultimate (6 shots, 12 seconds). In this state, her **Harmonizing Shots** have no cooldown and consume no **Purge**.
 
 <figure markdown="span">
     ![Purge](../../assets/images/guides/trigger/purge_coord.jpg)
     <figcaption>Purge meter in Coordinated Support</figcaption>
 </figure>
+
+Duration and shot counts from different skills can stack with each other, up to 10 shots and 20 seconds. This also triggers a Quick Assist.
+
+!!! note "About Trigger's Quick Assist"
+    Trigger's Quick Assist cycles backwards through the team, like Pulchra's and Seth's, so it will switch to the *previous* character in the team order!
 
 Her Defensive Assist and Assist Follow-up also deal a decent amount of daze, so it's worth using them!
 
