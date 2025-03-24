@@ -3,6 +3,7 @@ description: Quick Trigger guide.
 ---
 
 # Trigger Quick Guide
+##### _Written by [Cyxo](https://www.hoyolab.com/accountCenter/postList?id=173814964). Thanks to [Ai Chan Λ](https://www.hoyolab.com/accountCenter/postList?id=207276226) and [SpaceBar](https://x.com/Trigger_zzz) for reviewing._
 
 ![Quick guide](../../assets/images/social/guides/trigger/quick.png)
 
