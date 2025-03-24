@@ -35,7 +35,10 @@ Trigger has a meter called **Purge** that you can see under her icon at any time
     <figcaption>Trigger's Purge meter</figcaption>
 </figure>
 
-To gain **Purge**, you can hold the attack button to enter **Sniper Stance**. You need 4 sniper shots to fully charge the meter, so hold the attack button until then, and when it's full, you can release it. Releasing the attack button will trigger (lol) a Quick Assist for the next team mate.
+To gain **Purge**, you can hold the attack button to enter **Sniper Stance**. You need 4 sniper shots to fully charge the meter, but in most rotations, you don't have to fully charge the meter, and 2 shots are usually enough. Releasing the attack button will trigger (lol) a Quick Assist.
+
+!!! note "About Trigger's Quick Assist"
+    Trigger's Quick Assist cycles backwards through the team, like Pulchra's and Seth's, so it will switch to the *previous* character in the team order!
 
 <figure markdown="span">
     ![Purge](../../assets/images/guides/trigger/sniper_stance.gif)
@@ -60,7 +63,7 @@ Her Defensive Assist and Assist Follow-up also deal a decent amount of daze, so 
 
 Here's a summary of Trigger's gameplay:
 
-1. Hold basic attack until **Purge** is full
+1. Hold basic attack to gain **Purge**
 2. Use EX or Ultimate when you can
 3. Switch to your DPS and let her cook
 
@@ -78,9 +81,7 @@ Here are some team examples featuring Trigger:
 ![SAnby team](../../assets/images/guides/trigger/teams/sanby.png)
 
 This is Trigger's strongest team at her release. Silver Soldier Anby synergizes very well with Trigger, but this team also works with other on-field DPSes like Ellen or Evelyn as.
-Astra Yao can be replaced with any other support (or Pulchra?).
-
-*TODO: check Trigger-Pulchra synergy*
+Astra Yao can be replaced with any other support, Caesar, or Pulchra if you don't have a better option.
 
 #### On-field Anomaly
 
@@ -103,7 +104,7 @@ The other stun agent can take the remaining part of the field time.
 | ![SAnby](../../assets/images/guides/agents/sanby.png) | As you could guess from the team compositions, the new Silver Soldier Anby synergizes well with Trigger. Her Core Skill buffs the Aftershock damage from the whole team, which benefits herself but also Trigger. She enjoys having a lot of field time too, which suits Trigger's off-field style well. |
 | ![Qingyi](../../assets/images/guides/agents/qingyi.png) | Qingyi is the opposite of Trigger: an *on-field* Electric Stun character. So when they're paired together, Qingyi can take the field time and together they can stun the enemy very quickly. This works especially well in double-stun teams with a burst DPS that enjoys frequent stun windows like Harumasa. Qingyi being Electric, she also enables Trigger's Additional Ability. |
 | ![Rina](../../assets/images/guides/agents/rina.png) | Like Qingyi, Rina is an Electric agent, so she also enables Trigger's Additional Ability. Trigger being an off-field stunner, she frees a lot of field time for Rina to come refresh her rather short buff. |
-| ![Pulchra](../../assets/images/guides/agents/pulchra.png) | *Do they even synergize well together? idk.* |
+| ![Pulchra](../../assets/images/guides/agents/pulchra.png){ style="width: 67%" } | Pulchra can synergize with Trigger, allowing for faster stuns and more DPS field time. The gameplay is a bit strange due to the double backwards Quick Assist, bust still playable. Just make sure you used up all of Pulchra's stacks before switching back to her. |
 
 ### Possible anti-synergies
 
@@ -133,7 +134,6 @@ Here is Trigger's skill leveling-up priority, as recommended by the game:
     * Great Mindscape
     * Improves Trigger's team damage buff
     * Reduces off-field attacks cooldown
-    * Charges her off-field attacks stacks faster
     * Increases the maximum amount of off-field attacks stacks
 
 === "![M2](../../assets/images/guides/trigger/icm2.png) <span>Ether Vision</span>"
@@ -180,6 +180,7 @@ Here is Trigger's skill leveling-up priority, as recommended by the game:
     Upon entering the battlefield, Trigger gains 5 **Armor Break Rounds**. For every 25 **Purge** consumed, Trigger gains 1 additional **Armor Break Round**, up to a maximum of 5 rounds. While possessing **Armor Break Rounds**, when Trigger hits a target in **Sniper Stance**, 1 **Armor Break Round** is consumed to deal additional **Electric DMG** equal to 1,200% of Trigger's ATK. In addition, this instance of DMG is additionally increased by 50%. This effect can trigger once every 0.2s.
 
     * Huge increase of her on-field damage in Sniper Stance
+    * Do 5 sniper shots for maximum damage
     * Prettier art
 
 </div>
@@ -197,8 +198,9 @@ Her signature weapon **Spectral Glaze** is obviously the best for her, and by a 
 | ![The Restrained](../../assets/images/guides/weapons/lycaonsig.png) | Lycaon's signature W-Engine. The best "free" alternative. Trigger's off-field attack can consistently refresh the daze buff of this weapon. |
 | ![Fossilized Core](../../assets/images/guides/weapons/fossil.png) | The best A-rank alternative, especially for **Deadly Assault**. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
 | ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png) | Despite buffing Physical Damage, this weapon can also grant 31% Impact to Trigger pretty consistently, which makes it a better option in **Shiyu Defense** or other game modes with highly resistant enemies. |
-| <center>Other Stun<br>W-Engines</center> | Not much to say about these... The other W-Engines mentionned above are better, but they can still work. |
-| <center>Crit Rate<br>W-Engines</center> | Worse than Stun W-Engines in general. |
+| ![Blazing Laurel](../../assets/images/guides/weapons/lightersig.png){ style="width: 67%" } | Lighter's signature engine. A great option for an Ice or Fire DPS. She can get max stacks just like the other S-rank W-Engines, thanks to her off-field attacks being considered Basic Attacks. |
+| Other Stun<br>W-Engines | Not much to say about these... The other W-Engines mentionned above are better. These have a slow build-up at the start, but become good midway. |
+| Crit Rate<br>W-Engines | Worse than Stun W-Engines in general. |
 
 ### Pull priority?
 

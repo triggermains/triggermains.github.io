@@ -116,6 +116,10 @@
   background-image: url('/assets/theme/bg.png');
 }
 
+.md-typeset__table td:first-child {
+  text-align: center !important;
+}
+
 blockquote {
   background-color: rgba(0, 0, 0, 0.4) !important;
   margin-top: 24px;
