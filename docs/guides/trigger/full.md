@@ -309,6 +309,7 @@ Once again, because of her Crit Rate to Daze conversion up to 90% Crit Rate, you
 **Does she really need 90% Crit Rate?**
 
 > Yup, or as close as you can get to 90%! Losing even 10% Crit Rate means losing 15% daze efficiency, you wouldn't want that to happen!
+> However, don't think about substituting Shockstar Disco for Shadow Harmony just to get more Crit Rate. Shockstar Disco still provides better buffs. Same for using Crit Rate engines instead of Impact ones. If you want more Crit Rate, you've just got to get better substats!
 
 **How does she compare to Lighter/Qingyi/...?**
 
