@@ -202,12 +202,12 @@ Her signature weapon **Spectral Glaze** is obviously the best for her, and by a 
 
 | W-Engine       | Notes                                     |
 | ------------------------------------------------ | ----- |
-| ![Spectral Gaze](../../assets/images/guides/weapons/triggersig.png) | Her signature weapon. Obviously the best choice, with a great supporting ability and the highest increase in her daze potential among the Stun W-Engines. |
-| ![Ice-Jade Teapot](../../assets/images/guides/weapons/qingyisig.png) | The best gacha alternative! Trigger can max out the buffs fairly quickly. But let's be honest, if you have Ice-Jade Teapot, you probably have Qingyi and you'll probably want her to use her signature weapon. |
-| ![The Restrained](../../assets/images/guides/weapons/lycaonsig.png) | Lycaon's signature W-Engine. The best "free" alternative. Trigger's off-field attack can consistently refresh the daze buff of this weapon. |
-| ![Fossilized Core](../../assets/images/guides/weapons/fossil.png) | The best A-rank alternative, especially for **Deadly Assault**. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
-| ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png) | Despite buffing Physical Damage, this weapon can also grant 15% Impact and 16% bonus daze to Trigger pretty consistently, which makes it a better option in **Shiyu Defense** or other game modes with highly resistant enemies. |
-| ![Blazing Laurel](../../assets/images/guides/weapons/lightersig.png){ style="width: 67%" } | Lighter's signature engine. A great option for an Ice or Fire DPS. She can get max stacks just like the other S-rank W-Engines, thanks to her off-field attacks being considered Basic Attacks. |
+| ![Spectral Gaze](../../assets/images/guides/weapons/triggersig.png)<br>Spectral Gaze | Her signature weapon. Obviously the best choice, with a great supporting ability and the highest increase in her daze potential among the Stun W-Engines. |
+| ![Ice-Jade Teapot](../../assets/images/guides/weapons/qingyisig.png)<br>Ice-Jade Teapot | The best gacha alternative! Trigger can max out the buffs fairly quickly. But let's be honest, if you have Ice-Jade Teapot, you probably have Qingyi and you'll probably want her to use her signature weapon. |
+| ![The Restrained](../../assets/images/guides/weapons/lycaonsig.png)<br>The Restrained | Lycaon's signature W-Engine. The best "free" alternative. Trigger's off-field attack can consistently refresh the daze buff of this weapon. |
+| ![Fossilized Core](../../assets/images/guides/weapons/fossil.png)<br>Fossilized Core | The best A-rank alternative, especially for **Deadly Assault**. Doesn't need any special gameplay to trigger its effects, but you're going to see a great downtime if you can't kill the enemy quickly after the first stun window (like against Shiyu Defense bosses). |
+| ![Box Cutter](../../assets/images/guides/weapons/pulchrasig.png)<br>Box Cutter | Despite buffing Physical Damage, this weapon can also grant 15% Impact and 16% bonus daze to Trigger pretty consistently, which makes it a better option in **Shiyu Defense** or other game modes with highly resistant enemies. |
+| ![Blazing Laurel](../../assets/images/guides/weapons/lightersig.png){ style="width: 67%" }<br>Blazing Laurel | Lighter's signature engine. A great option for an Ice or Fire DPS. She can get max stacks just like the other S-rank W-Engines, thanks to her off-field attacks being considered Basic Attacks. |
 | Other Stun<br>W-Engines | Not much to say about these... The other W-Engines mentionned above are better. These have a slow build-up at the start, but become good midway. |
 | Crit Rate<br>W-Engines | Worse than Stun W-Engines in general. |
 
@@ -233,18 +233,18 @@ Since Trigger is a Stun agent, you will want to maximize her Daze dealt. And for
 
 | Disc set       | Notes                                     |
 | ------------------------------------------------ | ----- |
-| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png) | The disc 4-set that gives her the most daze potential, with 6% impact and 20% daze efficiency. Can be paired with Woodpecker Electro if more Crit Rate is required to cap her conversion. |
-| ![Shadow Harmony](../../assets/images/guides/discs/SuitShadow.png) | A good 4-set that gives up to 12% Crit Rate, resulting in 18% more daze dealt for Trigger. Less than Shockstar Disco, but this set also increases her own damage. It is **the best 4-set for M4+ Trigger**, but still usable at M0 if you have good stats on it. The downside is that you may be over-capping her conversion with W-Engine and discs stats. |
-| ![Proto Punk](../../assets/images/guides/discs/SuitProtoPunk.png) | The only 4-set for her that can buff the team's damage consistently, at the cost of her daze dealt. A bit annoying to refresh as you have to do Defensive Assists pretty often. Can be used for a more "support build" for Trigger, but definitely not her main build. |
+| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png)<br>Shockstar Disco | The disc 4-set that gives her the most daze potential, with 6% impact and 20% daze efficiency. Can be paired with Woodpecker Electro if more Crit Rate is required to cap her conversion. |
+| ![Shadow Harmony](../../assets/images/guides/discs/SuitShadow.png)<br>Shadow Harmony | A good 4-set that gives up to 12% Crit Rate, resulting in 18% more daze dealt for Trigger. Less than Shockstar Disco, but this set also increases her own damage. It is **the best 4-set for M4+ Trigger**, but still usable at M0 if you have good stats on it. The downside is that you may be over-capping her conversion with W-Engine and discs stats. |
+| ![Proto Punk](../../assets/images/guides/discs/SuitProtoPunk.png)<br>Proto Punk | The only 4-set for her that can buff the team's damage consistently, at the cost of her daze dealt. A bit annoying to refresh as you have to do Defensive Assists pretty often. Can be used for a more "support build" for Trigger, but definitely not her main build. |
 
 ### 2-set
 
 | Disc set       | Notes                                     |
 | ------------------------------------------------ | ----- |
-| ![Woodpecker Electro](../../assets/images/guides/discs/SuitWoodpeckerElectro.png) | Easy way to get closer to 90% Crit Rate for her conversion. Works with all the 4-set options mentioned earlier. |
-| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png) | Only works with the Shadow Harmony (or the Proto Punk) build. Good if you already cap her Crit Rate conversion, otherwise Woodpecker Electro is still better. |
-| ![Swing Jazz](../../assets/images/guides/discs/SuitSwingJazz.png) | Could be a good idea if you already reached the 90% Crit Rate cap. Allows Trigger to enter the Coordinated Support state more often to stun the enemy faster. |
-| ![Offensive discs](../../assets/images/guides/trigger/off_discs.png) | Offensive options for if you already reached the 90% Crit Rate cap, to maximize Trigger's potential by increasing her damage. |
+| ![Woodpecker Electro](../../assets/images/guides/discs/SuitWoodpeckerElectro.png)<br>Woodpecker Electro | Easy way to get closer to 90% Crit Rate for her conversion. Works with all the 4-set options mentioned earlier. |
+| ![Shockstar Disco](../../assets/images/guides/discs/SuitShockstarDisco.png)<br>Shockstar Disco | Only works with the Shadow Harmony (or the Proto Punk) build. Good if you already cap her Crit Rate conversion, otherwise Woodpecker Electro is still better. |
+| ![Swing Jazz](../../assets/images/guides/discs/SuitSwingJazz.png)<br>Swing Jazz | Could be a good idea if you already reached the 90% Crit Rate cap. Allows Trigger to enter the Coordinated Support state more often to stun the enemy faster. |
+| ![Offensive discs](../../assets/images/guides/trigger/off_discs.png)<br>Offensive discs | Offensive options for if you already reached the 90% Crit Rate cap, to maximize Trigger's potential by increasing her damage. |
 
 ### Disc stats
 
